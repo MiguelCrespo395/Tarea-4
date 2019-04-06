@@ -1,0 +1,4 @@
+/home/ninja007/Documentos/Visual Studio/4.2 Poo Tarea/obj/Debug/netcoreapp2.2/4.2 Poo Tarea.csprojAssemblyReference.cache
+/home/ninja007/Documentos/Visual Studio/4.2 Poo Tarea/obj/Debug/netcoreapp2.2/4.2 Poo Tarea.csproj.CoreCompileInputs.cache
+/home/ninja007/Documentos/Visual Studio/4.2 Poo Tarea/obj/Debug/netcoreapp2.2/4.2 Poo Tarea.AssemblyInfoInputs.cache
+/home/ninja007/Documentos/Visual Studio/4.2 Poo Tarea/obj/Debug/netcoreapp2.2/4.2 Poo Tarea.AssemblyInfo.cs
